@@ -1,2 +1,2 @@
-###Location and Cost 
+#Location and Cost 
 Observing 
